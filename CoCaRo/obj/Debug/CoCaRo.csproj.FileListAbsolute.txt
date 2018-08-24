@@ -1,0 +1,9 @@
+D:\LuyenTap\CoCaRo\CoCaRo\bin\Debug\CoCaRo.exe.config
+D:\LuyenTap\CoCaRo\CoCaRo\bin\Debug\CoCaRo.exe
+D:\LuyenTap\CoCaRo\CoCaRo\bin\Debug\CoCaRo.pdb
+D:\LuyenTap\CoCaRo\CoCaRo\obj\Debug\CoCaRo.csprojResolveAssemblyReference.cache
+D:\LuyenTap\CoCaRo\CoCaRo\obj\Debug\CoCaRo.Form1.resources
+D:\LuyenTap\CoCaRo\CoCaRo\obj\Debug\CoCaRo.Properties.Resources.resources
+D:\LuyenTap\CoCaRo\CoCaRo\obj\Debug\CoCaRo.csproj.GenerateResource.Cache
+D:\LuyenTap\CoCaRo\CoCaRo\obj\Debug\CoCaRo.exe
+D:\LuyenTap\CoCaRo\CoCaRo\obj\Debug\CoCaRo.pdb
